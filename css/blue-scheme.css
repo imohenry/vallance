@@ -1004,6 +1004,10 @@ blockquote {
     gap: 0px;
   }
 }
+
+.address_weight {
+  font-weight: 400 !important;
+}
 /**
  * responsive:
  * stats
